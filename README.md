@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
-- 💬 Ask me about **HTML,CSS and Bootstrap**
+- 💬 Ask me about **HTML,CSS, Tailwind CSS and Bootstrap**
 
 - 📫 How to reach me **azmeerasrilatha2003@gmail.com**
 
